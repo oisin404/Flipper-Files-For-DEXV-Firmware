@@ -1,0 +1,331 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Sleep_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Read_books_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Hacking_pc_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Cry_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Hijack_radio_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Soldering_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Sasquach_D1g1talRa1n_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Purple_rain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: FlipperCity_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Fireplace_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Painting_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Wake_up_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: fsociety_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: dexv_hand_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: dexv_dedsec_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_New_year_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L2_FlipperCity_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L3_FlipperMustache_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Halloween_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Waves_128x50
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Laptop_128x51
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Recording_128x51
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Furippa1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Boxing_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Mad_fist_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Mods_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_Leaving_sad_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L2_Furippa2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L3_Furippa3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L3_Hijack_radio_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_FINGER_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_MUMMY_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_JOINUS_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_DEDSEC1_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_VIRUS_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_GALAXYBRAIN_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_SMEARGLE_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_PIKACHU_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_POKEMON_WALK_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_ANNA_GLITCH_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_JILL_HOME_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L1_TAPPINGHEAD_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons_Misc_Earth_Arcadia_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons_Misc_Jolly_Roger_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons_Misc_L_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons_Misc_FlippaVerse_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Sasquach_StickFight_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7

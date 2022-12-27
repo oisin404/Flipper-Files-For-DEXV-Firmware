@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+DOWN: /any/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM650_1.sub
+LEFT: /any/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
+RIGHT: /any/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM270_1.sub
+OK: /any/subghz/Gas_Sign/Edit_mode.sub
+ULABEL: TeslaAM270
+DLABEL: BarrierAM650
+LLABEL: TeslaAM650
+RLABEL: BarrierAM270
+OKLABEL: Petrol Station Sign

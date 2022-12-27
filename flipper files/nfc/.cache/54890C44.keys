@@ -1,0 +1,11 @@
+Filetype: Flipper NFC keys
+Version: 1
+Mifare Classic type: 1K
+Key A map: 000000000000000F
+Key B map: 0000000000000006
+Key A sector 0: FF FF FF FF FF FF
+Key A sector 1: FF FF FF FF FF FF
+Key B sector 1: FF FF FF FF FF FF
+Key A sector 2: FF FF FF FF FF FF
+Key B sector 2: FF FF FF FF FF FF
+Key A sector 3: FF FF FF FF FF FF

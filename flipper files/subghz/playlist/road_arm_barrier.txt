@@ -1,0 +1,7 @@
+# Road Arm Barrier
+sub: /ext/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM270_1.sub
+sub: /ext/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM270_2.sub
+sub: /ext/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM270_3.sub
+sub: /ext/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM270_4.sub
+sub: /ext/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM650_1.sub
+sub: /ext/subghz/Gates/Road_Arm_(UK)/Road_Arm_AM650_2.sub

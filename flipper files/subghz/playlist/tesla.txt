@@ -1,0 +1,3 @@
+# Tesla UK
+sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
