@@ -5,6 +5,7 @@
 # Usefull Links
 
 * [Dexvmaster0 Firmware](https://github.com/DXVVAY/Dexvmaster0)
+* [Dexv0 Firmware](https://github.com/DXVVAY/Dexv0)
 * [UberGuidoZ Playground](https://github.com/UberGuidoZ/Flipper)
 * [UberGuidoZ IRBD](https://github.com/UberGuidoZ/Flipper-IRDB)
 * [RocketGod Flipper](https://github.com/RocketGod-git/Flipper_Zero)
